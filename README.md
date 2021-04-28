@@ -1,1 +1,2 @@
-# javascript-asiankitchen
+# Javascript AsianKitchen
+Made for Patika-Kodluyoruz
